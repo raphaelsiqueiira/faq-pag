@@ -15,7 +15,6 @@
   body{
     background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
     background-attachment: fixed;
-    background-size: cover;
   }
 
   header{
@@ -127,6 +126,7 @@
       margin-top:0px;
       box-shadow: none;
       border: none;
+      background-image: #ffffff;
     }
 
     .nav-list {
