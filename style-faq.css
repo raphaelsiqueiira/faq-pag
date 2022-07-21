@@ -14,7 +14,7 @@
 
   body{
     background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
-    background-size: cover;
+    background-attachment: fixed;
   }
 
   header{
@@ -124,6 +124,7 @@
     
     main{
       margin-top:0px;
+      box-shadow: none;
       border: none;
     }
 
